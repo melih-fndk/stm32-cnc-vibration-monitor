@@ -172,6 +172,13 @@ stm32-uart-reader            → Qt Masaüstü Uygulaması
 
 ---
 
+## İlgili Depolar
+
+Bu proje iki ayrı depodan oluşmaktadır:
+
+- STM32 Gömülü Yazılım: https://github.com/melih-fndk/stm32-cnc-vibration-monitor
+- Qt Masaüstü Uygulaması: https://github.com/melih-fndk/qt-vibration-monitor
+
 ## Mevcut Durum
 
 * UART haberleşmesi tamamlandı
@@ -345,6 +352,15 @@ Data logging
 Fault scoring algorithms
 Machine learning based classification
 Predictive maintenance features
+
+## Related Repositories
+
+This project consists of two separate repositories:
+
+- STM32 Firmware: https://github.com/melih-fndk/stm32-cnc-vibration-monitor
+- Qt Desktop Application: https://github.com/melih-fndk/qt-vibration-monitor
+
+
 License
 
 This project is developed for educational, research, and condition monitoring applications.
